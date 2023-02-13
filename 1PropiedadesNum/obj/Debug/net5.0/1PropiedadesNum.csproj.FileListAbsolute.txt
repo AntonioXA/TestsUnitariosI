@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\TestsUnitariosI\1PropiedadesNum\bin\Debug\net5.0\1PropiedadesNum.exe
+C:\Users\Usuario\Desktop\TestsUnitariosI\1PropiedadesNum\bin\Debug\net5.0\1PropiedadesNum.deps.json
+C:\Users\Usuario\Desktop\TestsUnitariosI\1PropiedadesNum\bin\Debug\net5.0\1PropiedadesNum.runtimeconfig.json
+C:\Users\Usuario\Desktop\TestsUnitariosI\1PropiedadesNum\bin\Debug\net5.0\1PropiedadesNum.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\TestsUnitariosI\1PropiedadesNum\bin\Debug\net5.0\1PropiedadesNum.dll
+C:\Users\Usuario\Desktop\TestsUnitariosI\1PropiedadesNum\bin\Debug\net5.0\1PropiedadesNum.pdb
+C:\Users\Usuario\Desktop\TestsUnitariosI\1PropiedadesNum\obj\Debug\net5.0\1PropiedadesNum.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\TestsUnitariosI\1PropiedadesNum\obj\Debug\net5.0\1PropiedadesNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\TestsUnitariosI\1PropiedadesNum\obj\Debug\net5.0\1PropiedadesNum.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\TestsUnitariosI\1PropiedadesNum\obj\Debug\net5.0\1PropiedadesNum.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\TestsUnitariosI\1PropiedadesNum\obj\Debug\net5.0\1PropiedadesNum.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\TestsUnitariosI\1PropiedadesNum\obj\Debug\net5.0\1PropiedadesNum.dll
+C:\Users\Usuario\Desktop\TestsUnitariosI\1PropiedadesNum\obj\Debug\net5.0\refint\1PropiedadesNum.dll
+C:\Users\Usuario\Desktop\TestsUnitariosI\1PropiedadesNum\obj\Debug\net5.0\1PropiedadesNum.pdb
+C:\Users\Usuario\Desktop\TestsUnitariosI\1PropiedadesNum\obj\Debug\net5.0\1PropiedadesNum.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\TestsUnitariosI\1PropiedadesNum\obj\Debug\net5.0\ref\1PropiedadesNum.dll
